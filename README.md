@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Eduardo! Graduated in Computer Engineering at Universidade Santa Cecília - Brazil<br><br>🔭 Looking to collaborate on React Apps, NodeJS and other various software projects!<br>
+Hi, my name is Eduardo! Graduated in Computer Engineering at Universidade Santa Cecília - Brazil<br><br>🔭 Looking to collaborate on various software projects!<br>
 
 
 ## 🌐 Socials:
