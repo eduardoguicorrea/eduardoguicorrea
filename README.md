@@ -13,6 +13,6 @@ Hi, my name is Eduardo! Graduated in Computer Engineering at Universidade Santa 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoguicorrea&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Lipcimn&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=eduardoguicorrea&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
